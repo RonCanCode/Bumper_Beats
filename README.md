@@ -19,3 +19,6 @@ For future iterations, I'd like to add support for grid locking of the
 paddles. I'd also like to allow the user to change between voices,  
 adjust the pitch of each sample, control the global ball speed (tempo),  
 and to add or subtract an arbitrary number of ball/paddle tracks.
+
+To install, download openFrameworks and place all C++ files into  
+your OF/apps directory, then compile.
